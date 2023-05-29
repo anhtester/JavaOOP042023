@@ -1,5 +1,7 @@
 package com.anhtester.objectclass;
 
+import com.anhtester.phamvitruycap.Student;
+
 import java.util.ArrayList;
 
 public class ThongTinSinhVien {
