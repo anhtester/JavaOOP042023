@@ -34,6 +34,7 @@ public class Student {
         student.getInfoStudent();
         System.out.println(student.getName());
         System.out.println(student.name);
+
     }
 
 }
