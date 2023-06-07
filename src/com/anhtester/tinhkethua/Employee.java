@@ -6,6 +6,7 @@ public class Employee extends Person {
 
     public Employee(String name, int age, float height, String address) {
         super(name, age, height);
+        //super();
 
         this.address = address;
     }
